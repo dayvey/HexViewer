@@ -1,0 +1,15 @@
+D:\Facultate\ASC\HOMEWORK\HexViewer\bin\Debug\net6.0\HexViewer.exe
+D:\Facultate\ASC\HOMEWORK\HexViewer\bin\Debug\net6.0\HexViewer.deps.json
+D:\Facultate\ASC\HOMEWORK\HexViewer\bin\Debug\net6.0\HexViewer.runtimeconfig.json
+D:\Facultate\ASC\HOMEWORK\HexViewer\bin\Debug\net6.0\HexViewer.dll
+D:\Facultate\ASC\HOMEWORK\HexViewer\bin\Debug\net6.0\HexViewer.pdb
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.csproj.AssemblyReference.cache
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.AssemblyInfoInputs.cache
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.AssemblyInfo.cs
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.csproj.CoreCompileInputs.cache
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.dll
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\refint\HexViewer.dll
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.pdb
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\HexViewer.genruntimeconfig.cache
+D:\Facultate\ASC\HOMEWORK\HexViewer\obj\Debug\net6.0\ref\HexViewer.dll
